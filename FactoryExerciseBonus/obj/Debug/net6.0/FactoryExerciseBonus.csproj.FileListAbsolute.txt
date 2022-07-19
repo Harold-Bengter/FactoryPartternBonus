@@ -1,0 +1,15 @@
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\bin\Debug\net6.0\FactoryExerciseBonus.exe
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\bin\Debug\net6.0\FactoryExerciseBonus.deps.json
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\bin\Debug\net6.0\FactoryExerciseBonus.runtimeconfig.json
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\bin\Debug\net6.0\FactoryExerciseBonus.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\bin\Debug\net6.0\FactoryExerciseBonus.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.csproj.AssemblyReference.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.AssemblyInfoInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.AssemblyInfo.cs
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.csproj.CoreCompileInputs.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\refint\FactoryExerciseBonus.dll
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.pdb
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\FactoryExerciseBonus.genruntimeconfig.cache
+C:\Users\Alien\OneDrive\Desktop\Repos\FactoryExerciseBonus\FactoryExerciseBonus\obj\Debug\net6.0\ref\FactoryExerciseBonus.dll
